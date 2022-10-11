@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="11b92751-bd34-47ce-9e90-fccd05758181" name="Changes" comment="ver1">
-      <change afterPath="$PROJECT_DIR$/src/TipCalculatorRunner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TipCalc.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TipCalculator.java" afterDir="false" />
-    </list>
+    <list default="true" id="11b92751-bd34-47ce-9e90-fccd05758181" name="Changes" comment="ver2" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -70,7 +66,14 @@
       <option name="project" value="LOCAL" />
       <updated>1665442481817</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="ver2">
+      <created>1665452021447</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1665452021447</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -86,6 +89,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="ver1" />
-    <option name="LAST_COMMIT_MESSAGE" value="ver1" />
+    <MESSAGE value="ver2" />
+    <option name="LAST_COMMIT_MESSAGE" value="ver2" />
   </component>
 </project>
